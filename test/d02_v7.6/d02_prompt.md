@@ -16,6 +16,6 @@ Auto white balance keeps neutral surfaces neutral: the dusk is cool and blue ove
 
 Photorealistic, an unretouched real photograph rather than a render: the face lit only by the scene's own light sources, with no added frontal fill or studio light, as bright or as dark as the scene makes it; natural skin texture as visible at this distance, with fine lines and slight unevenness, realistic hair and fabric texture at the same natural level of detail as everything else at that distance, true-to-life colours with no overall yellow or sepia cast, believable exposure, depth of field exactly as described above with no extra background blur, natural body language, lived-in details, no glamour retouching, no beauty filter, no airbrushed skin, no oversharpening, no cutout look, no cinematic colour grading, no hyper-polished AI look.
 
-RELIGHT EDIT (EN) — отправить вторым сообщением, если лицо светлее сцены
+RELIGHT EDIT (EN) — обязательно отправить вторым сообщением в тот же чат
 
 Edit this image. Keep his identity, expression, pose, clothes, framing and background exactly as they are. Relight only his face and neck to match this scene: lit only by the warm-white street lamp from the left of the frame, slightly in front and above; light-shadow line down his nose bridge, the frame-right half two stops darker in cool dusk shade; face no brighter than the lamp highlight on the car roof; skin warm amber-peach in the light, cool brownish-grey in shadow; same exposure, noise and softness as the rest of the photo. Do not brighten or smooth the face.
