@@ -1,0 +1,15 @@
+s01 — FINAL PROMPT (EN), вариант B (телефон) — character card v1.1 — refs: HEAD_GRID, BODY_GRID
+
+Vertical 9:16 waist-up photograph taken by a friend on a smartphone main camera, no portrait mode, with deep depth of field: phone held about 1.4 m away at eye level. At sunrise, the man shown in HEAD_GRID and BODY_GRID stands centered on a mountain ridge, looking straight into the lens with a calm closed-lip half-smile, relaxed brows, eyes open without squinting. Torso almost frontal, his left shoulder (frame right) slightly nearer; head straight; arms down, hands out of frame. He wears a matte dark-graphite windbreaker, zip open to mid-chest, over a dark-grey crew-neck T-shirt, not the blue-grey T-shirt from BODY_GRID; no necklace, chain or jewellery.
+
+Use HEAD_GRID only for face and hair, BODY_GRID only for build: narrow, long face, lean cheeks, angular jaw, long narrow strongly projecting nose, horizontally elongated eyes under straight, low-set brows, lean narrow-shouldered build. Do not transfer either reference's lighting, exposure, white balance, skin colour rendering, contrast, retouching, micro-detail, sharpness, clothing or accessories.
+
+The top third is only empty clear sky, his crown just below it; the distant ridgeline runs behind his shoulders, his whole head against sky. Everything from the grass tufts and stones of the near slope to the farthest range is in focus; his face and windbreaker share the light, colour, processing and natural sharpness of the stones behind him. Each farther range keeps a crisp ridgeline while haze makes it paler, bluer and lower in contrast.
+
+Behind him golden-olive grass and grey stones drop to a valley; forested ranges recede beyond. An ordinary hiking ridge, not a postcard: snowless, no lakes or rivers, no sea of clouds, no buildings, roads or people; light valley haze is the only atmospheric effect.
+
+The sun, just above the horizon, is out of frame left on the camera side, about 60–70° from the lens axis: warm golden, near-horizontal light, while cool skylight fills the shadows. The sky in frame is sunless: a smooth cloudless gradient with no sun disc, sunburst or lens flare. Sunlight strikes the frame-left side of his face, hair edge and shoulder; the frame-right side is sky-lit shade about 1–1.5 stops darker, features readable, with a gradual transition and a short nose shadow to frame right.
+
+Daylight white balance; his skin keeps its own tone, never orange or grey-blue. Moderate contrast, open shadows, sky not blown out, fine natural grain equal everywhere. No text or watermarks.
+
+Authentic photorealism, a real photograph rather than a render: realistic skin, hair and material texture at the same natural level of detail as everything else at that distance, true-to-life colours, believable exposure, depth of field exactly as described above with no extra background blur, natural body language, lived-in details, no glamour retouching, no beauty filter, no oversharpening, no cutout look, no cinematic colour grading, no hyper-polished AI look.
